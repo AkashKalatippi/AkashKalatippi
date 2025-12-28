@@ -1,49 +1,41 @@
 # Hi, I'm Akash Kalatippi 👋
 
-🎓 MCA Student at Acharya Institute of Technology  
-💻 BCA Graduate | Aspiring Software & Data Analytics Professional  
+🎓 MCA Student at **Acharya Institute of Technology**  
+💻 BCA Graduate | Aspiring **Software Developer** & **Data Analytics Professional**  
 ☁️ AWS Cloud Learner  
 
 ---
 
 ## 🔧 Technical Skills
 
-- Programming: Java, C, SQL  
-- Web Development: HTML, CSS  
-- Cloud: AWS (Beginner)  
-- Tools: Git, GitHub, VS Code, MySQL
+- **Programming:** Java, C, SQL  
+- **Web Development:** HTML, CSS  
+- **Cloud:** AWS (Beginner)  
+- **Tools & Others:** Git, GitHub, VS Code, MySQL  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL & Database Analytics  
+- AWS Cloud Services  
+- Data Analytics & Visualization  
 
 ---
 
 ## 📊 Interests
 
-- Software Development  
-- Data Analytics & SQL  
-- Cloud Computing  
-- Problem Solving & Real-World Projects
-
----
-
-## 📂 Featured Projects
-
-| Project Name | Description | Tech Stack |
-|-------------|-------------|------------|
-| Student Management System | Academic CRUD based project | Java, MySQL |
-| Portfolio Website | Personal responsive website | HTML, CSS |
-| SQL Analytics Project | Database queries & reports | SQL |
-
----
-
-## 🌱 Currently Learning
-- Advanced SQL  
-- AWS Cloud Services  
-- Data Analytics Fundamentals
+- Software Development & Problem Solving  
+- Data Analytics & SQL Reporting  
+- Cloud Computing & Modern IT Solutions  
+- Building Real-World Projects  
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/akashsk9026  
-- LinkedIn: Add your LinkedIn link here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AkashKalatippi-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashkalatippi)  
+[![GitHub](https://img.shields.io/badge/GitHub-AkashKalatippi-black?style=for-the-badge&logo=github)](https://github.com/AkashKalatippi)
 
 ---
 
