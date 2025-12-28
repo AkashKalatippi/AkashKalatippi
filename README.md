@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Akash Kalatippi 👋
 
-<!--
-**AkashKalatippi/AkashKalatippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Acharya Institute of Technology  
+💻 BCA Graduate | Aspiring Software & Data Analytics Professional  
+☁️ AWS Cloud Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+
+- Programming: Java, C, SQL  
+- Web Development: HTML, CSS  
+- Cloud: AWS (Beginner)  
+- Tools: Git, GitHub, VS Code, MySQL
+
+---
+
+## 📊 Interests
+
+- Software Development  
+- Data Analytics & SQL  
+- Cloud Computing  
+- Problem Solving & Real-World Projects
+
+---
+
+## 📂 Featured Projects
+
+| Project Name | Description | Tech Stack |
+|-------------|-------------|------------|
+| Student Management System | Academic CRUD based project | Java, MySQL |
+| Portfolio Website | Personal responsive website | HTML, CSS |
+| SQL Analytics Project | Database queries & reports | SQL |
+
+---
+
+## 🌱 Currently Learning
+- Advanced SQL  
+- AWS Cloud Services  
+- Data Analytics Fundamentals
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/akashsk9026  
+- LinkedIn: Add your LinkedIn link here
+
+---
+
+⭐ *Open to Software Development, Data Analytics & IT Opportunities*
